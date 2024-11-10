@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CHING-HENG PAN",
+    "section": "",
+    "text": "Welcome to my website\n\nplot(iris, col=\"blue\", pch=20, cex=.8)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an associate professor at GINPPA, NCHU.\n\n1 + 1\n\n[1] 2"
+  }
+]
